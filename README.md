@@ -1,4 +1,4 @@
-# NLP_RNN_Embedding
+# NLP Portfolio
 All the notebooks have been tested in google colab.
 
 1. [Movie_Review_Word2Vec_Glove](https://github.com/XiwangLi/NLP_RNN_Embedding/blob/master/Movie_Review_Word2Vec_Glove.ipynb): Try ebedding, conv, LSTM, as well as Word2Vec and Glove for movie review prediction
